@@ -1,0 +1,10 @@
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoisePrototype\bin\Release\AccidentalNoisePrototype.exe
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoisePrototype\bin\Release\AccidentalNoisePrototype.pdb
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoisePrototype\bin\Release\AccidentalNoise.dll
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoisePrototype\bin\Release\AccidentalNoise.pdb
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoisePrototype\obj\x86\Release\AccidentalNoisePrototype.csprojResolveAssemblyReference.cache
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoisePrototype\obj\x86\Release\AccidentalNoisePrototype.Form1.resources
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoisePrototype\obj\x86\Release\AccidentalNoisePrototype.Properties.Resources.resources
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoisePrototype\obj\x86\Release\AccidentalNoisePrototype.csproj.GenerateResource.Cache
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoisePrototype\obj\x86\Release\AccidentalNoisePrototype.exe
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoisePrototype\obj\x86\Release\AccidentalNoisePrototype.pdb

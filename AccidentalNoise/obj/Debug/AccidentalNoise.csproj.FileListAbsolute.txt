@@ -1,0 +1,10 @@
+C:\Users\James\Documents\Visual Studio 2010\Projects\AccidentalNoisePrototype\AccidentalNoise\bin\Debug\AccidentalNoise.dll
+C:\Users\James\Documents\Visual Studio 2010\Projects\AccidentalNoisePrototype\AccidentalNoise\bin\Debug\AccidentalNoise.pdb
+C:\Users\James\Documents\Visual Studio 2010\Projects\AccidentalNoisePrototype\AccidentalNoise\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2010\Projects\AccidentalNoisePrototype\AccidentalNoise\obj\Debug\AccidentalNoise.dll
+C:\Users\James\Documents\Visual Studio 2010\Projects\AccidentalNoisePrototype\AccidentalNoise\obj\Debug\AccidentalNoise.pdb
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoise\bin\Debug\AccidentalNoise.dll
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoise\bin\Debug\AccidentalNoise.pdb
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoise\obj\Debug\AccidentalNoise.csprojResolveAssemblyReference.cache
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoise\obj\Debug\AccidentalNoise.dll
+D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoise\obj\Debug\AccidentalNoise.pdb
