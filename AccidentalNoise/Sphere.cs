@@ -15,12 +15,13 @@ namespace AccidentalNoise
         private double m_cv = 0;
         private double m_radius = 1;
 
-        public Sphere(double x, double y, double z, double radius)
+        public Sphere(double radius, double x, double y, double z)
         {
+            this.setRadius(radius);
             this.setCenterX(x);
             this.setCenterY(y);
             this.setCenterZ(z);
-            this.setRadius(radius);
+
         }
 
         void setCenter(double cx,double cy,double cz,double cw,double cu,double cv)

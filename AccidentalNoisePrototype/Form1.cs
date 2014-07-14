@@ -20,8 +20,7 @@ namespace AccidentalNoisePrototype
             Bitmap bitmap = new Bitmap(pictureBox1.Width, pictureBox1.Height);
 
 
-            var ground_gradient = new Sphere(0,0,0, 5);
-            //Gradient ground_gradient = new Gradient(0, 0, 0, 1);
+            Gradient ground_gradient = new Gradient(0, 0, 0, 1);
 
             #region lowlands
             Fractal lowland_shape_fractal = new Fractal(FractalType.BILLOW, BasisTypes.GRADIENT, InterpTypes.QUINTIC, 2, 0.25, null);
