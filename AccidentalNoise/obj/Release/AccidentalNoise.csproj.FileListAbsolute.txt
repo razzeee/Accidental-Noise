@@ -1,4 +1,0 @@
-D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoise\bin\Release\AccidentalNoise.dll
-D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoise\bin\Release\AccidentalNoise.pdb
-D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoise\obj\Release\AccidentalNoise.dll
-D:\Weiterbildung\AccidentalNoisePrototype\AccidentalNoise\obj\Release\AccidentalNoise.pdb
